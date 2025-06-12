@@ -32,3 +32,23 @@ uvicorn main:app --reload
 cd ../fake-news-ui
 npm install
 npm start
+```
+
+## 📸 Demo
+Here’s how it works:
+
+- Paste or type in a news article or headline.
+- Click Check News
+- See if it’s 🟢 Real or 🔴 Fake (with optional fact-checking).\
+
+## 📝 Future Enhancements
+- ✅ Save and display prediction history
+
+- 🌐 Support other languages and news sources
+
+- 📊 Admin dashboard to monitor usage
+
+- 🔐 User authentication and rate limiting
+
+## 🙌 Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
