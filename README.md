@@ -1,10 +1,10 @@
 # 🕵️‍♂️ Fake News Detector
 
 A web application to detect whether a news article or headline is real or fake using:
-- 🧠 Hugging Face Transformers
-- ⚡ FastAPI (Python backend)
-- ⚛️ React + TailwindCSS (Frontend)
-- ✅ Google Fact Check API for enhanced verification
+- Hugging Face Transformers
+- FastAPI (Python backend)
+- React + TailwindCSS (Frontend)
+- Google Fact Check API for enhanced verification
 
 ## 🚀 Features
 - Classifies news as **Real** or **Fake** using AI
@@ -42,13 +42,13 @@ Here’s how it works:
 - See if it’s 🟢 Real or 🔴 Fake (with optional fact-checking).\
 
 ## 📝 Future Enhancements
-- ✅ Save and display prediction history
+- Save and display prediction history
 
-- 🌐 Support other languages and news sources
+- Support other languages and news sources
 
-- 📊 Admin dashboard to monitor usage
+- Admin dashboard to monitor usage
 
-- 🔐 User authentication and rate limiting
+- User authentication and rate limiting
 
 ## 🙌 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
